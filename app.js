@@ -1,0 +1,2 @@
+consola.log("hello word");
+
